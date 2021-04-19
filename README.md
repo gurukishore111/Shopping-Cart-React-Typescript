@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-## Snapshots
+## Snapshot
 
 <img width="1440" alt="Screenshot 2021-04-19 at 4 42 41 PM" src="https://user-images.githubusercontent.com/52570524/115227593-4a2d9180-a12e-11eb-8a65-2ae1b3b348d5.png">
 
